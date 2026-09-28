@@ -2,7 +2,7 @@
 
 **The same open source platform, with one layer replaced: indicator triage decided through typed questions instead of free text.**
 
-[Leia em português](README.pt-BR.md)
+[Leia em português](README.pt-BR.md) | [Base platform](https://github.com/Alisson-P/ioc-pua-hunting)
 
 > A model that writes prose cannot be held to a threshold. One that answers closed questions with a number can.
 
