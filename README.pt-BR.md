@@ -2,7 +2,7 @@
 
 **A mesma plataforma open source, com uma camada trocada: a triagem de indicadores decidida por perguntas tipadas em vez de texto livre.**
 
-[Read this in English](README.md)
+[Read this in English](README.md) | [Plataforma base](https://github.com/Alisson-P/ioc-pua-hunting)
 
 > Um modelo que escreve prosa não pode ser submetido a um limiar. Um que responde perguntas fechadas com um número, pode.
 
